@@ -228,4 +228,4 @@ For issues or questions, please open an GitHub issue or contact the development 
 
 ---
 
-**Last Updated**: April 2024
+**Last Updated**: April 2026
